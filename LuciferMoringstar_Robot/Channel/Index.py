@@ -79,3 +79,6 @@ async def index_files(bot, message):
             else:
                 await msg.edit(f'Total {total_files} Saved To DataBase!')
 
+RATING = {mention} 
+GENRES = """<b>AM Movies Group</b>"""
+
