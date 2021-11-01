@@ -79,11 +79,3 @@ async def index_files(bot, message):
             else:
                 await msg.edit(f'Total {total_files} Saved To DataBase!')
 
-RATING = ["5.1 | IMDB", "6.2 | IMDB", "7.3 | IMDB", "8.4 | IMDB", "9.5 | IMDB", ]
-GENRES = ["fun, fact",
-         "Thriller, Comedy",
-         "Drama, Comedy",
-         "Family, Drama",
-         "Action, Adventure",
-         "Film Noir",
-         "Documentary"]
