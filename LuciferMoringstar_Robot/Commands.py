@@ -115,9 +115,10 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton('🎗️ JOIN OUR GROUP 🎗️', url='https://t.me/AM_Chats')
+                InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
                 ],[
-                
+                InlineKeyboardButton("Help", callback_data="help"),
+                InlineKeyboardButton("About", callback_data="about")
                 ]]
             )
         )
