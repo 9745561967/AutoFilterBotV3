@@ -1,4 +1,4 @@
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ejvf0T?referralCode=IB4ur4)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/AutoFilterBotV3?style=social)
 <img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
