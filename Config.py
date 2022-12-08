@@ -8,7 +8,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'LuciferMoringstar_Robot')
 API_ID = int(environ['API_ID'])
 API_HASH = environ['API_HASH']
-BOT_TOKEN = environ['BOT_TOKEN']
+BOT_TOKEN = environ['5934802290:AAFs7NZMlN2PHtg5KefmSh16nU5WOdKQouk']
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
